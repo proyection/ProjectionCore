@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Implementation-Title: projection
+Implementation-Title: ProjectionCore
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: virtuales
 Implementation-Vendor-Id: io.proyection
